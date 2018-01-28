@@ -1,5 +1,4 @@
-# BitCoinMiner
-Privacy Policy
+# Privacy Policy
 
 Your privacy is important to Flashlight Developer Team (hereinafter as "Team") and we are committed to protecting your privacy. So we've developed a Privacy Policy. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS SET FORTH HEREIN, DO NOT USE THE SOFTWARE & SERVICES.
 
